@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Async",
+        "repositoryURL": "https://github.com/vapor/async.git",
+        "state": {
+          "branch": "beta",
+          "revision": "29a71e56b5a1e4d9fe097a7ce280b45f4d48b684",
+          "version": null
+        }
+      },
+      {
+        "package": "Console",
+        "repositoryURL": "https://github.com/vapor/console.git",
+        "state": {
+          "branch": "beta",
+          "revision": "b61cb141669f75ec8d820942cb04637a058d508d",
+          "version": null
+        }
+      },
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/vapor/core.git",
+        "state": {
+          "branch": "beta",
+          "revision": "05a87407d12f99abf66971304d277cf3b9e329fb",
+          "version": null
+        }
+      },
+      {
+        "package": "Crypto",
+        "repositoryURL": "https://github.com/vapor/crypto.git",
+        "state": {
+          "branch": "beta",
+          "revision": "b31cdb4ecc32b8f529a6027c1945f404c4a41c1e",
+          "version": null
+        }
+      },
+      {
+        "package": "Engine",
+        "repositoryURL": "https://github.com/vapor/engine.git",
+        "state": {
+          "branch": "beta",
+          "revision": "d02854bb0969d4bc32fdce8fd39dc9f01f004356",
+          "version": null
+        }
+      },
+      {
+        "package": "Leaf",
+        "repositoryURL": "https://github.com/vapor/leaf.git",
+        "state": {
+          "branch": "beta",
+          "revision": "db7ff283c5c0dfe8b9404c94cf07b4e3ff18d060",
+          "version": null
+        }
+      },
+      {
+        "package": "Service",
+        "repositoryURL": "https://github.com/vapor/service.git",
+        "state": {
+          "branch": "beta",
+          "revision": "6693b1a46db13899b2ead30d91bd77950d9b5a4c",
+          "version": null
+        }
+      },
+      {
+        "package": "Vapor",
+        "repositoryURL": "https://github.com/vapor/vapor.git",
+        "state": {
+          "branch": "beta",
+          "revision": "479c9197cbc0120a65718d8cb35f3aedae766e41",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
